@@ -249,7 +249,7 @@ animation: text-animation 4s steps(16) infinite;
     color: rgb(172, 172, 172);
     z-index: 12;
     width: 100%;
-    padding: 2rem 2.3rem;
+    padding: 4rem 2.3rem;
     /* border: 1px solid red; */
     
 }
@@ -257,7 +257,7 @@ animation: text-animation 4s steps(16) infinite;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid salmon;
+    /* border: 2px solid salmon; */
     margin-top: 1rem;
 }
 .network-div{
@@ -506,7 +506,7 @@ animation: text-animation 4s steps(16) infinite;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-top: 5rem;
+        margin-top: 7rem;
     }
 
     .network-div{
